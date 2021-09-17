@@ -1,4 +1,4 @@
-# Korean Jaso Analyzer for Elasticsearch 7.13.4
+# Korean Jaso Analyzer for Elasticsearch 7.13.2
 
 ## install
 
@@ -11,7 +11,7 @@ $ gradle build buildPluginZip
 ###### _설치_
 
 ```
-bin/elasticsearch-plugin install https://github.com/kkodongha/elasticsearch-jaso-analyzer/releases/download/v7.13.4/elasticsearch-jaso-analyzer-7.13.4.zip
+bin/elasticsearch-plugin install https://github.com/kkodongha/elasticsearch-jaso-analyzer/releases/download/v7.13.2/elasticsearch-jaso-analyzer-7.13.2.zip
 ```
 
 ###### _삭제 (필요시)_
