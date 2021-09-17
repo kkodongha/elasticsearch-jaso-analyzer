@@ -11,7 +11,7 @@ $ gradle build buildPluginZip
 ###### _설치_
 
 ```
-bin/elasticsearch-plugin install https://github.com/netcrazy/elasticsearch-jaso-analyzer/releases/download/v6.6.0/jaso-analyzer-plugin-6.6.0.0-plugin.zip
+bin/elasticsearch-plugin install https://github.com/kkodongha/elasticsearch-jaso-analyzer/releases/download/v7.13.4/elasticsearch-jaso-analyzer-7.13.4.zip
 ```
 
 ###### _삭제 (필요시)_
